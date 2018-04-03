@@ -1,0 +1,31 @@
+.main {
+  max-width: 700px;
+}
+.autor {
+  font-family: Pompiere;
+  font-size: 25px;
+}
+#quote {
+  font-family: Sanchez;
+  background: black;
+  color: white;
+  font-size: 25px;
+  padding: 50px;
+  border-radius: 15px;
+}
+
+.next {
+  background-color: black;
+  color: white;
+}
+
+.next:hover {
+  color: white;
+}
+.next:focus {
+  color: white;
+}
+#tweet {
+  color: white;
+  background-color: black;
+}
